@@ -1,2 +1,2 @@
-# BI-DS
-Repositório do curso de BI para Data Science 2020 
+# Power Bi para análise de dados
+Repositório de dashboards para estudo e pratica de Power Bi
